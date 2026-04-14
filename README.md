@@ -1,1 +1,3 @@
-# git_practice
+# Learning GitHub is cool
+
+A new line (local)
